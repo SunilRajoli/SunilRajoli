@@ -1,6 +1,8 @@
+![Banner](https://raw.githubusercontent.com/SunilRajoli/SunilRajoli/main/assets/banner.png)
+
 # 👋 Hi, I'm Sunil Rajoli
 
-💻 Backend Developer | 🚀 Building scalable Node.js apps
+💻 Backend Developer | 🚀 Turning ideas into scalable backend systems
 
 ---
 
@@ -21,3 +23,9 @@
 **Database:** PostgreSQL, Sequelize ORM  
 **Tools & Practices:** Git, Docker, CI/CD, Authentication (JWT, Refresh Tokens), Rate Limiting, Caching  
 **Learning:** System Design, Distributed Systems, Microservices
+
+---
+
+## 📫 Connect With Me  
+- [LinkedIn](https://www.linkedin.com/in/sunil-rajoli-731478212/)  
+- [Email](mailto:rajolisunilkumar@gmail.com)  
