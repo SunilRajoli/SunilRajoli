@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Sunil Rajoli
 
-<!--
-**SunilRajoli/SunilRajoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer | 🚀 Building scalable Node.js apps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me
+- 🌱 Currently working with **Node.js, Express, PostgreSQL, Sequelize**
+- 🔐 Focused on **secure, scalable backend systems**
+- 📚 Actively practicing **DSA & system design**
+- 🛠️ Building projects like:
+  - **CareBridge**: Disaster aid platform with secure auth & verification
+  - **MindPalace OS**: AI-augmented memory exploration
+  - **URL Shortener**: Production-ready Express + PostgreSQL service
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** JavaScript (ES6+), TypeScript, SQL  
+**Backend:** Node.js, Express, REST APIs  
+**Database:** PostgreSQL, Sequelize ORM  
+**Tools & Practices:** Git, Docker, CI/CD, Authentication (JWT, Refresh Tokens), Rate Limiting, Caching  
+**Learning:** System Design, Distributed Systems, Microservices
