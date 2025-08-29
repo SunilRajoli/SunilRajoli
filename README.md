@@ -1,5 +1,3 @@
-![Banner](https://raw.githubusercontent.com/SunilRajoli/SunilRajoli/main/assets/banner.png)
-
 # 👋 Hi, I'm Sunil Rajoli
 
 💻 Backend Developer | 🚀 Turning ideas into scalable backend systems
