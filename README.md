@@ -11,7 +11,6 @@
 - 🛠️ Building projects like:
   - **CareBridge**: Disaster aid platform with secure auth & verification
   - **MindPalace OS**: AI-augmented memory exploration
-  - **URL Shortener**: Production-ready Express + PostgreSQL service
 
 ---
 
