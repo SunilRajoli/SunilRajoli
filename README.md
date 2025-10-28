@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sunil Rajoli
+# 👋 Hi, I'm Sunil
 
 💻 Backend Developer | 🚀 Turning ideas into scalable backend systems
 
