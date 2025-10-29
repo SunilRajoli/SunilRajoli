@@ -30,7 +30,7 @@
 - _Highlights:_ timezone-safe bookings, overlap guards (`EXCLUDE USING GIST`), email flows, EN/JA i18n  
 
 <p align="center">
-  <a href="https://github.com/polimera0000-glitch/omotenashi-connect"><img src="https://img.shields.io/badge/Repo-View%20on%20GitHub-181717?logo=github" /></a>
+  <a href="https://github.com/SunilRajoli/omotenashi-connect"><img src="https://img.shields.io/badge/Repo-View%20on%20GitHub-181717?logo=github" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Docs-OpenAPI%20%2F%20Swagger-85EA2D?logo=swagger" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Status-In%20Development-blue" /></a>
 </p>
