@@ -51,6 +51,20 @@
 
 ---
 
+### 💼 **PPL (Premier Project League)**
+> Developer collaboration + startup incubation platform
+
+- _Stack:_ Node.js, TypeScript, Express, Sequelize, PostgreSQL, Flutter (Android client)  
+- _Highlights:_ contact request system, investor / hiring roles, message queues, admin panel  
+
+<p align="center">
+  <a href="https://github.com/polimera0000-glitch/ppl"><img src="https://img.shields.io/badge/Repo-View%20on%20GitHub-181717?logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docs-Project%20Spec-orange?logo=markdown" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Active%20Development-yellow" /></a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 **Languages:** TypeScript, JavaScript (ES6+), SQL  
 **Backend:** Node.js, Express, REST APIs  
