@@ -23,6 +23,21 @@
 
 ## 🚀 What I’m Building Right Now
 
+### 🛰️ **Pulse Notification System**
+> Instagram/Twitter-style feed + notifications stack
+
+- _Backend:_ Node.js, Express, PostgreSQL, Sequelize, Redis, BullMQ, JWT  
+- _Frontend:_ React 18, Vite, React Router, CSS Modules, lucide-react  
+- _Highlights:_ async like notifications, aggregation with functional index, Redis cache-aside, worker-based invalidation, responsive dark editorial UI
+
+<p align="center">
+  <a href="https://github.com/polimera0000-glitch/Pulse-Notification-System"><img src="https://img.shields.io/badge/Repo-Notification%20System-181717?logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Stack-Node.js%20%2B%20PostgreSQL%20%2B%20React-61DAFB?logo=javascript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Feature%20Complete-success" /></a>
+</p>
+
+---
+
 ### 🏯 **Omotenashi Connect (おもてなし Connect · Hospitality Connect)**
 > Japan-focused booking backend (SaaS → Marketplace path)
 
