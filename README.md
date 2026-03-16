@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/polimera0000-glitch"><img src="https://img.shields.io/badge/Code-Node.js%20%2B%20TS-3178C6?logo=node.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Code-Node.js%20%2B%20TS-3178C6?logo=node.js" /></a>
   <a href="https://www.linkedin.com/in/sunil-rajoli-731478212/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin" /></a>
   <a href="mailto:rajolisunilkumar@gmail.com"><img src="https://img.shields.io/badge/Email-rajolisunilkumar%40gmail.com-D14836?logo=gmail" /></a>
 </p>
